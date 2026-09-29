@@ -1,0 +1,19 @@
+{
+  "spec": 1,
+  "name": "Morning Blue",
+  "previewText": "Morning Blue",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/rayhan0706/Morning-Blue/refs/heads/main/Morning%20Blue.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/rayhan0706/Morning-Blue/refs/heads/main/Morning%20Blue.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/rayhan0706/Morning-Blue/refs/heads/main/Morning%20Blue.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/rayhan0706/Morning-Blue/refs/heads/main/Morning%20Blue.ttf",
+    "ggsans-Normal": "https://raw.githubusercontent.com/rayhan0706/Morning-Blue/refs/heads/main/Morning%20Blue.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/rayhan0706/Morning-Blue/refs/heads/main/Morning%20Blue.ttf",
+    "NotoSans-Bold": "https://raw.githubusercontent.com/rayhan0706/Morning-Blue/refs/heads/main/Morning%20Blue.ttf",
+    "NotoSans-ExtraBold": "https://raw.githubusercontent.com/rayhan0706/Morning-Blue/refs/heads/main/Morning%20Blue.ttf",
+    "NotoSans-Medium": "https://raw.githubusercontent.com/rayhan0706/Morning-Blue/refs/heads/main/Morning%20Blue.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/rayhan0706/Morning-Blue/refs/heads/main/Morning%20Blue.ttf",
+    "NotoSans-Semibold": "https://raw.githubusercontent.com/rayhan0706/Morning-Blue/refs/heads/main/Morning%20Blue.ttf",
+    "ggmono-Normal": "https://raw.githubusercontent.com/rayhan0706/Morning-Blue/refs/heads/main/Morning%20Blue.ttf"
+  }
+}
